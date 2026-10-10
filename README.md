@@ -26,6 +26,3 @@ Generated via synthesis tools, this schematic shows the gate-level implementatio
 
 ---
 
-**Hüsnü Onur**
-* Electrical & Electronics Engineering Student
-* Focus: Computer Architecture, RTL Design, and Digital Systems.Experimental structural Verilog implementation of a Single-Cycle RISC-V (RV32I) Processor
